@@ -1,0 +1,5 @@
+2025-10-15 22:59:48 - ArithamaticApp - ERROR - Division by zero error
+2025-10-15 23:03:07 - ArithamaticApp - DEBUG - Adding 10+15 = 25
+2025-10-15 23:03:07 - ArithamaticApp - DEBUG - Subtracting 15-10 = 5
+2025-10-15 23:03:07 - ArithamaticApp - DEBUG - Multiplying 2x3 = 6
+2025-10-15 23:03:07 - ArithamaticApp - DEBUG - Dividing 10/2 = 5.0
