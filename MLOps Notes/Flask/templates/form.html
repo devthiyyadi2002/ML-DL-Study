@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang = "en">
+    <head>
+        <meta character = "UTF - 8">
+        <title> Form </title>
+
+    </head>
+    <body>
+        <h1>Submit a form</h1>
+        <form method=post>
+            <label for='name'>Name:</label>
+            <input type="text" id="name" name = "name">
+            <input type='submit' value="Submit">
+        </form>
+
+<!-- <input>: The actual field where the user types their name.
+
+type="text": It’s a plain text box.
+
+id="name": Matches the label’s for="name" so they’re linked.
+
+name="name": This is very important — it’s the key Flask uses to read the submitted value 
+
+Another <input>, but type='submit' means it’s a button that sends the form data when clicked.
+
+value="Submit" controls the button’s text.
+-->
+
+    </body>
+</html>
